@@ -1,0 +1,10 @@
++----------- Invoice of Client Brayen Strong ---------+
++------------------------------------------------------+
+Name..................: Brayen Strong
+Address...............: Neves
+Phone Number..........: 2399842330
+Calls List............: [
+NumPhoneDestination=2399954018; CallType=P; CallDuration=23.0min
+]
+Total Price to pay....: 28,75 STN
++------------------------------------------------------+
